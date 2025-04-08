@@ -66,8 +66,7 @@ body {
   padding: 0.25rem 0.5rem;
 }
 
-.diamond-icon {
+.text-diamond {
   color: #6fe539 !important;
-  font-size: 2rem !important;
-  line-height: 1 !important;
+  font-size: 1.8rem !important;
 }

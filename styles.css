@@ -59,3 +59,11 @@ body {
   font-size: 1.5rem;
   color: #6fe539;
 }
+
+.navbar-toggler {
+  border-color: #6fe539;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='https://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%236fe539' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 23h22' /%3e%3c/svg%3e");
+}

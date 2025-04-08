@@ -10,14 +10,14 @@ A responsive and modern product landing page inspired by _The Sims 4_, rebuilt u
 - Email signup form with JavaScript validation
 - Interactive bundle cards with hover effects
 - Custom styling with minimal CSS
-- Navigation bar that's mobile-friendly (hamburger style)
+- Navigation bar that's mobile-friendly (hamburger style/Sims-style diamond)
 
 ## Technologies Used
 
 - HTML5
 - CSS3 (minimal custom CSS)
 - Bootstrap 5
-- JavaScript (vanilla)
+- Vanilla JavaScript
 - Font Awesome
 - Google Fonts (`Mochiy Pop One`)
 
@@ -37,6 +37,8 @@ A responsive and modern product landing page inspired by _The Sims 4_, rebuilt u
 
 ![Screenshot 4](screenshots/sims-landing-mobile-one.png)
 ![Screenshot 5](screenshots/sims-landing-mobile-two.png)
+![Screenshot 6](screenshots/sims-landing-mobile-three.png)
+![Screenshot 7](screenshots/sims-landing-mobile-four.png)
 
 ## Getting Started
 

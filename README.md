@@ -10,7 +10,7 @@ A responsive and modern product landing page inspired by _The Sims 4_, rebuilt u
 - Email signup form with JavaScript validation
 - Interactive bundle cards with hover effects
 - Custom styling with minimal CSS
-- Mobile-friendly navigation bar
+- Navigation bar that's mobile-friendly (hamburger style)
 
 ## Technologies Used
 
@@ -23,12 +23,20 @@ A responsive and modern product landing page inspired by _The Sims 4_, rebuilt u
 
 ## Live Demo
 
-[View the live site here](https://your-github-username.github.io/sims-landing-page)
+[View the live site here](https://katiec97.github.io/the-sims-product-landing-page/)
 
 ## Screenshots
 
-![Screenshot 1](screenshots/sims-landing-desktop.png)
-![Screenshot 2](screenshots/sims-landing-mobile.png)
+### Desktop View
+
+![Screenshot 1](screenshots/sims-landing-desktop-one.png)
+![Screenshot 2](screenshots/sims-landing-desktop-two.png)
+![Screenshot 3](screenshots/sims-landing-desktop-three.png)
+
+### Mobile View
+
+![Screenshot 4](screenshots/sims-landing-mobile-one.png)
+![Screenshot 5](screenshots/sims-landing-mobile-two.png)
 
 ## Getting Started
 

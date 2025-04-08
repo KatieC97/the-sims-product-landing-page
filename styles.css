@@ -65,7 +65,7 @@ body {
   outline: none;
 }
 
-.text-diamond {
-  color: #6fe539;
+.diamond-icon {
+  color: #6fe539 !important;
   font-size: 1rem;
 }

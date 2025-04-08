@@ -1,0 +1,61 @@
+.btn-diamond {
+  background-color: #78e844;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-diamond:hover {
+  background-color: #5ac61a;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.btn-diamond:focus {
+  outline: 2px solid #147dd3;
+  outline-offset: 2px;
+}
+
+@media (max-width: 768px) {
+  .card {
+    margin-bottom: 1rem;
+  }
+}
+.hover-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease-in-out;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Mochiy Pop One", sans-serif;
+}
+
+.card {
+  border: 1px solid #6fe539;
+  border-radius: 10px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-header-custom {
+  background-color: #147dd3;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.feature-icon {
+  font-size: 1.5rem;
+  color: #6fe539;
+}
